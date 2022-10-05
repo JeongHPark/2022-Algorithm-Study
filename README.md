@@ -13,7 +13,7 @@
   - [모의고사 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
   - [소수 찾기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
   
-  > 스터디 규칙
+  > # 스터디 규칙
     
   1. 주마다 3문제씩 선정해서 문제 풀이를 진행함.
       1) GIT HUB 활용해서 Pull Request 코드 리뷰
@@ -26,7 +26,7 @@
 
   3. 3문제 PULL REQUEST 하기
       1) 세 문제 각각 1번 (금) 2번 (일) 3번 (화) PULL REQUEST 하기
-> 파일명
+> # 파일명
  
   programmers/(이름)/N주차/문제이름.(언어종류)
   baekjoon/(이름)/N주차/문제이름.(언어종류)
