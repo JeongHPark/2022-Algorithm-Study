@@ -7,11 +7,14 @@
   - [신입사원 (Baekjoon)](https://www.acmicpc.net/problem/1946)
 
 
+
 > # 22.10.05 (2주차 - Brute_force(완전 탐색))
 
   - [최소직사각형 (Programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
   - [모의고사 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
   - [소수 찾기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+  
+  
   
   > # 스터디 규칙
     
@@ -26,6 +29,8 @@
 
   3. 3문제 PULL REQUEST 하기
       1) 세 문제 각각 1번 (금) 2번 (일) 3번 (화) PULL REQUEST 하기
+
+
 > # 파일명
  
   programmers/(이름)/N주차/문제이름.(언어종류)
