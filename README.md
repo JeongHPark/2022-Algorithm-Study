@@ -34,5 +34,7 @@
 > # 파일명
  
    > programmers/(이름)/N주차/문제이름.(언어종류)
+
    > baekjoon/(이름)/N주차/문제이름.(언어종류)
+  
    > ex) programmers/JeongHyun/1주차(그리디)/구명보트.js
