@@ -9,7 +9,7 @@
 
 > # 22.10.05 (2주차 - Brute_force(완전 탐색))
 
-  - [최소직사각형 (Programmers)]https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+  - [최소직사각형 (Programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
   - [모의고사 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
   - [소수 찾기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
   
