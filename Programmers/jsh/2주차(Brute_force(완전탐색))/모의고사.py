@@ -21,8 +21,9 @@ def solution(answers):
     if(score[2][0]==score[0][0]):
         result.insert(0,score[0][1])
     '''
+    maxv=max(score)
     for i,value in enumerate(score):
-        if value==max(score):
+        if value==maxv:
             result.append(i+1)
     '''
     answer = result
