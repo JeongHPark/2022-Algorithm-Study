@@ -2,15 +2,15 @@ import java.util.*;
 
 class Solution {
     public int solution(int[][] sizes) {
-		int[] max = new int[sizes.length]; //가로 세로 중 큰 값 저장 배열
-		int[] min= new int[sizes.length];  //가로 세로 중 작은 값 저장 배열
+	    int long1 = 0;//가로 세로 포함 제일 큰 값
+	    int long2 = 0;//가로 혹 세로 긴 값을 제외하고서 제일 큰 값
 		for(int i=0;i<sizes.length;i++) {
-				max[i]=Math.max(sizes[i][0],sizes[i][1]);//둘 중 큰 값 저장
-				min[i]=Math.min(sizes[i][0],sizes[i][1]);//둘 중 작은 값 저장
+				if(long1<Math.max(sizes[i][0],sizes[i][1])){
+                    long1 = Math.max(sizes[i][0],sizes[i][1]);}//제일 큰 값 갱신
+				if(long2<Math.min(sizes[i][0],sizes[i][1])){
+                    long2 = Math.min(sizes[i][0],sizes[i][1]);}//가로 혹 세로 긴 값을 제외하고서 제일 큰 값 갱신
 		}
-		Arrays.sort(max);//정렬
-		Arrays.sort(min);
-        int answer=max[sizes.length-1]*min[sizes.length-1];//큰값중 최댓값과 작은값중 최댓값을 곱하여 answer
+        int answer= long1*long2;//큰값중 최댓값과 작은값중 최댓값을 곱하여 answer
         return answer;
     }
 }
