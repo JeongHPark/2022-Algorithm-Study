@@ -8,8 +8,6 @@ class Solution {
             for (int j = 0; j < sizes[i].length; j++) {
                 if (max1 < sizes[i][j]) { //가장 큰 값을 max1에 저장
                     max1 = sizes[i][j];
-                    if (j == 0) max2 = sizes[i][1]; //max1과 같은 배열에 있는 값을 max2에 저장
-                    else max2 = sizes[i][0];
                 }
             }
         }
