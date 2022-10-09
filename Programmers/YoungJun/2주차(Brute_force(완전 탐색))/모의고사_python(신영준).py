@@ -10,7 +10,7 @@ def solution(answers):
             o[1] += 1
         if answers[i] == circle2[i%len(circle2)]:
             o[2] += 1          
-        max_value=max(o) #가장많이 맞힌갯수 저장 변수
+    max_value=max(o) #가장많이 맞힌갯수 저장 변수
     for i in range(len(o)):
         if o[i] == max_value: #가장많이 맞힌사람 찾아서 정답에 저장
             answer.append(i+1)
