@@ -14,7 +14,7 @@ def soutsu(n): # 소수 확인 부함수
 def solution(numbers):
     answer = 0 
     arr = [] #순열을 저장할 리스트
-    for i in range(1,len(numbers)+1): #1부터 시작했기에 1을 더해준다.
+    for i in range(1,len(numbers)+1): # 끊을 수 있는 숫자의 갯수가 한 개부터 다 합친 갯수이기에 for문은 해당값 -1값까지만 돌기에 1을 추가하였다.
         arr += itertools.permutations(numbers, i) # 순열 저장 과정(참고부분)
     num = set([int(''.join(i)) for i in arr]) # 순열을 각각 합쳐주는 과정(참고부분)
     for i in num: # 순열 수만큼 돌리기
