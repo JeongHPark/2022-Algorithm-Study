@@ -18,7 +18,7 @@
 > # 22.10.12 (3주차 - Stack/Queue(스택/큐))
 
   - [같은 숫자는 싫어 (Programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
-  - [기능 개발 (programmers)]https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+  - [기능 개발 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
   - [올바른 괄호 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
   
   
