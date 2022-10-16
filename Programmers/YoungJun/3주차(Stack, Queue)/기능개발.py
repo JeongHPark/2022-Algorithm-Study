@@ -6,7 +6,7 @@ def solution(progresses, speeds):
             progresses_day.append((100-progresses[i])/speeds[i])#나누어 떨어지기 때문에 / 하나 사용
         else :
             progresses_day.append((100-progresses[i])//speeds[i]+1)#나누어 떨어지지 않기 때문에 / 두개 사용
-    check=[num * 0 for num in progresses_day]#리스트길이만큼 0으로 초기화
+   check=[0 for num in progresses_day]#리스트길이만큼 0으로 초기화
     for i in range(len(progresses_day)):
         stack=0#앞에서 뒤에 같은 작업날에 낼 수 있는 지 쌓아주는 stack값
         if check[i]==0:#작업물 안 냈으면 진행 
