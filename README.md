@@ -19,9 +19,16 @@
   - [같은 숫자는 싫어 (Programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
   - [기능 개발 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
   - [올바른 괄호 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+ 
+ 
+ > # 22.10.19 (4주차 - 정렬)
+
+  - [K번째 수 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+  - [가장 큰 수 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+  - [H-Index (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
   
   
- > # 22.10.19 (4주차 - 깊이/너비 우선 탐색(DFS/BFS))
+ > # 22.10.26 (5주차 - 깊이/너비 우선 탐색(DFS/BFS))
 
   - [DFS와 BFS (Baekjoon)](https://www.acmicpc.net/problem/1260)
   - [네트워크 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
