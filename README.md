@@ -25,8 +25,8 @@
 
   - [DFS와 BFS (Baekjoon)](https://www.acmicpc.net/problem/1260)
   - [네트워크 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
-  - [게임 맵 최단거리 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
-  
+  - [점프와 순간 이동(programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
+  - [연구소 (Baekjoon)](https://www.acmicpc.net/problem/14502) 
   
 > # 파일명
  
