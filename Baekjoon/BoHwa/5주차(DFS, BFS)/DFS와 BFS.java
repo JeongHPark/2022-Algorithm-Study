@@ -11,11 +11,10 @@ class Solution{
     int[][] arr;
     boolean[] visited;
     public void runProgram(){
-        Solution so = new Solution();
-        int v=so.makeGraph();
-        so.dfs(v);
+        int v=makeGraph();
+        dfs(v);
         System.out.println();
-        so.bfs(v);
+        bfs(v);
     }
     public int makeGraph(){
         int n,m,v;
