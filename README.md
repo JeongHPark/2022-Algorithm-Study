@@ -34,6 +34,13 @@
   - [네트워크 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
   - [점프와 순간 이동(programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
   - [연구소 (Baekjoon)](https://www.acmicpc.net/problem/14502) 
+
+
+ > # 22.11.02 (6주차 - 해시)
+
+  - [전화번호 목록 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+  - [위장(programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+  - [베스트앨범 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42579) 
   
 > # 파일명
  
