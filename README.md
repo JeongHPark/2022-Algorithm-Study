@@ -42,6 +42,12 @@
   - [위장(programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
   - [베스트앨범 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42579) 
   
+   > # 22.11.09 (7주차 - 이분 탐색)
+
+  - [수 찾기 (Baekjoon)](https://www.acmicpc.net/problem/1920)
+  - [가장 긴 증가하는 부분 수열 2 (Baekjoon)](https://www.acmicpc.net/problem/12015)
+  - [입국 심사 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) 
+  
 > # 파일명
  
    > programmers/(이름)/N주차/문제이름.(언어종류)
