@@ -47,6 +47,12 @@
   - [수 찾기 (Baekjoon)](https://www.acmicpc.net/problem/1920)
   - [가장 긴 증가하는 부분 수열 2 (Baekjoon)](https://www.acmicpc.net/problem/12015)
   - [입국 심사 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) 
+
+   > # 22.11.16 (8주차 - DP)
+
+  - [1, 2, 3 더하기 (Baekjoon)](https://www.acmicpc.net/problem/9095)
+  - [상자넣기 (Baekjoon)](https://www.acmicpc.net/problem/1965)
+  - [N으로 표현 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
   
 > # 파일명
  
