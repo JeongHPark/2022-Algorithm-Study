@@ -54,6 +54,12 @@
   - [상자넣기 (Baekjoon)](https://www.acmicpc.net/problem/1965)
   - [N으로 표현 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
   
+   > # 22.11.16 (8주차 - DP)
+
+  - [더 맵게(programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
+  - [디스크 컨트롤러 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+  - [이중우선순위큐 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
+  
 > # 파일명
  
    > programmers/(이름)/N주차/문제이름.(언어종류)
