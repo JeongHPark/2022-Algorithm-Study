@@ -60,6 +60,12 @@
   - [디스크 컨트롤러 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
   - [이중우선순위큐 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
   
+  > # 22.11.30 (10주차 - 그래프)
+
+  - [유기농 배추(Baekjoon)](https://www.acmicpc.net/problem/1012)
+  - [가장 먼 노드 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
+  - [순위 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
+  
 > # 파일명
  
    > programmers/(이름)/N주차/문제이름.(언어종류)
