@@ -22,13 +22,9 @@ for i in range(T):
         a,b=map(int,input().split())
         li[b][a]=1
     count=0
-    a=-1
-    b=-1
     for i in range(N):
         for j in range(M):
             if li[i][j]==1:
-                a=j
-                b=i
-                bfs(li,a,b)
+                bfs(li,j,i)
                 count+=1
     print(count)
