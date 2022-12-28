@@ -66,6 +66,12 @@
   - [가장 먼 노드 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
   - [순위 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
   
+   > # 22.12.28 (11주차 - 신영준)
+
+  - [모음사전(programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+  - [물병 (Baekjoon)](https://www.acmicpc.net/problem/1052)
+  - [단속카메라 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
+  
 > # 파일명
  
    > programmers/(이름)/N주차/문제이름.(언어종류)
