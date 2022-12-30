@@ -1,3 +1,6 @@
+import java.util.Collections;
+import java.util.ArrayList;
+
 class Solution {
     static char[] aeiou = {'A','E','I','O','U'};
     static ArrayList<String> list;
