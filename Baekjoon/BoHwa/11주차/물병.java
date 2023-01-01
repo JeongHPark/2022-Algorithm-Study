@@ -1,3 +1,4 @@
+//참고 : https://today-retrospect.tistory.com/202
 import java.util.Scanner;
 
 public class Main {
@@ -9,7 +10,7 @@ public class Main {
 		k = sc.nextInt();
 
 		if (n <= k)
-			System.out.println(0);
+			System.out.println(answer);
 
 		else {
 			while (true) {
