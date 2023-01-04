@@ -66,11 +66,17 @@
   - [가장 먼 노드 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
   - [순위 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/49191)
   
-   > # 22.12.28 (11주차 - 신영준)
+  > # 22.12.28 (11주차 - 신영준)
 
   - [모음사전(programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
   - [물병 (Baekjoon)](https://www.acmicpc.net/problem/1052)
   - [단속카메라 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42884)
+  
+  > # 23.01.04 (12주차 - 안지호)
+
+  - [여행경로 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
+  - [맥주 마시면서 걸어가기 (Baekjoon)](https://acmicpc.net/problem/9205)
+  - [로봇 청소기 (Baekjoon)](https://www.acmicpc.net/problem/14503)
   
 > # 파일명
  
