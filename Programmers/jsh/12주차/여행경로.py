@@ -30,3 +30,23 @@ def solution(tickets):
             if ret:
                 return ret
     return dfs("ICN",[],copy.deepcopy(destination))
+# -----------------------------------------------------------------------------
+#세건이의 코드를보고 copy를 안해도 된다는걸 깨닫고 수정함
+from collections import defaultdict
+def solution(tickets):
+    destination=defaultdict(list)
+    for i in tickets:
+        destination[i[0]].append(i[1])
+        destination[i[0]].sort()
+    def dfs(start,answer,dest):
+        answer.append(start)
+        if len(answer)==1+len(tickets):
+            return answer
+        for i in range(len(dest[start])):
+            temp=dest[start].pop(i)
+            ret=dfs(temp,answer,dest)
+            dest[start].insert(i,temp)
+            if ret:
+                return ret
+        answer.pop() #추가된부분
+    return dfs("ICN",[],destination)
