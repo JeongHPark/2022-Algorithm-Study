@@ -77,7 +77,13 @@
   - [여행경로 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
   - [맥주 마시면서 걸어가기 (Baekjoon)](https://acmicpc.net/problem/9205)
   - [로봇 청소기 (Baekjoon)](https://www.acmicpc.net/problem/14503)
-  
+   
+  > # 23.01.14 (13주차 - 박세건)
+
+  - [이모티콘 할인행사 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
+  - [택배배달과 수거하기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+  - [표현가능한 이진트리 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
+ 
 > # 파일명
  
    > programmers/(이름)/N주차/문제이름.(언어종류)
