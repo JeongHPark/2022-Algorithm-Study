@@ -78,11 +78,17 @@
   - [맥주 마시면서 걸어가기 (Baekjoon)](https://acmicpc.net/problem/9205)
   - [로봇 청소기 (Baekjoon)](https://www.acmicpc.net/problem/14503)
    
-  > # 23.01.14 (13주차 - 박세건)
+  > # 23.01.11 (13주차 - 박세건)
 
   - [이모티콘 할인행사 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
   - [택배배달과 수거하기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
-  - [표현가능한 이진트리 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
+  - [표현가능한 이진트리 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/150367)  
+
+  > # 23.01.18 (14주차 - 김보화)
+
+  - [소형기관차 (Baekjoon)](https://www.acmicpc.net/problem/2616)
+  - [등굣길 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42898)
+  - [두 큐 합 같게 만들기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
  
 > # 파일명
  
