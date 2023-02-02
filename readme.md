@@ -80,6 +80,11 @@
   - [다단계 칫솔 판매 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
   - [전구와 스위치 (Baekjoon)](https://www.acmicpc.net/problem/2138)
   - [치즈 (Baekjoon)](https://www.acmicpc.net/problem/2638)
+  
+ > # 23.02.01 (16주차 - 안지호)
+  - [연산자 끼워넣기 (Baekjoon)](https://www.acmicpc.net/problem/14888)
+  - [마법사 상어와 비바라기 (Baekjoon)](https://www.acmicpc.net/problem/21610)
+  - [주사위 굴리기 (Baekjoon)](https://www.acmicpc.net/problem/14499)
 
 > # 파일명
  
