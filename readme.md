@@ -85,6 +85,11 @@
   - [연산자 끼워넣기 (Baekjoon)](https://www.acmicpc.net/problem/14888)
   - [마법사 상어와 비바라기 (Baekjoon)](https://www.acmicpc.net/problem/21610)
   - [주사위 굴리기 (Baekjoon)](https://www.acmicpc.net/problem/14499)
+  
+  > # 23.02.08 (17주차 - 박세건)
+  - [연속 부분 수열 합의 개수 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
+  - [야근 지수 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
+  - [주차 요금 계산 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 
 > # 파일명
  
