@@ -91,6 +91,11 @@
   - [야근 지수 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12927)
   - [주차 요금 계산 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 
+  > # 23.02.15 (18주차 - 김보화)
+  - [호텔 대실 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
+  - [불량 사용자 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
+  - [카드 정렬하기 (Baekjoon)](https://www.acmicpc.net/problem/1715)
+
 > # 파일명
  
    > programmers/(이름)/N주차/문제이름.(언어종류)
