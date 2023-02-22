@@ -95,6 +95,11 @@
   - [호텔 대실 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
   - [불량 사용자 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
   - [카드 정렬하기 (Baekjoon)](https://www.acmicpc.net/problem/1715)
+  
+  > # 23.02.22 (19주차 - 장승한)
+  - [탑 (Baekjoon)](https://www.acmicpc.net/problem/2493)
+  - [숫자고르기 (Baekjoon)](https://www.acmicpc.net/problem/2668)
+  - [주식 (Baekjoon)](https://www.acmicpc.net/problem/11501)
 
 > # 파일명
  
