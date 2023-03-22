@@ -113,7 +113,7 @@
 
   > # 23.03.22 (22주차 - 김보화)
   - [124 나라의 숫자 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
-  - [[1차] 셔틀버스 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/17678)
+  - [셔틀버스 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/17678)
   - [강의실 배정 (Baekjoon)](https://www.acmicpc.net/problem/11000)
 
 > # 파일명
