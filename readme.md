@@ -115,6 +115,11 @@
   - [124 나라의 숫자 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
   - [셔틀버스 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/17678)
   - [강의실 배정 (Baekjoon)](https://www.acmicpc.net/problem/11000)
+  
+  > # 23.03.29 (23주차 - 장승한)
+  - [공유기 설치 (Baekjoon)](https://www.acmicpc.net/problem/2110)
+  - [불! (Baekjoon)](https://www.acmicpc.net/problem/4179)
+  - [문자열 폭발 (Baekjoon)](https://www.acmicpc.net/problem/9935)
 
 > # 파일명
  
