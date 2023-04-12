@@ -126,6 +126,11 @@
   - [크레인 인형뽑기 게임 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/64061)
   - [불량 사용자 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 
+  > # 23.04.12 (25주차 - 박세건)
+  - [징검다리 건너기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/64062)
+  - [줄 서는 방법 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
+  - [배달 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
+  
 > # 파일명
  
    > programmers/(이름)/N주차/문제이름.(언어종류)
