@@ -136,7 +136,7 @@
   - [섬 연결하기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
   - [경주로 건설 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/67259)
   
-  > # 23.04.26 (23주차 - 장승한)
+  > # 23.04.26 (27주차 - 장승한)
   - [여행 가자 (Baekjoon)](https://www.acmicpc.net/problem/1976)
   - [벽 부수고 이동하기 (Baekjoon)](https://www.acmicpc.net/problem/2206)
   - [파티 (Baekjoon)](https://www.acmicpc.net/problem/1238)
