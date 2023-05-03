@@ -143,7 +143,7 @@
   
   > # 23.05.03 (28주차 - 안지호)
   - [카카오프렌즈 컬러링북 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/1829)
-  - [합승 택시 요금 (Baekjoon)](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
+  - [합승 택시 요금 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
   - [회장뽑기 (Baekjoon)](https://www.acmicpc.net/problem/2660)
   
 > # 파일명
