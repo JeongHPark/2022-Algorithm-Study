@@ -32,7 +32,8 @@ def solution(n, s, a, b, fares):
         res.append(dijkstra(i))
         
         
-    for i in range(1,n+1): #s에서 i로 i에서 a, i에서 b로 가는 경우를 더해서 가장 택시요금이 낮은 경우를 반환
+    for i in range(1,n+1):#s에서 i로 i에서 a, i에서 b로 가는 경우를 더해서 가장 택시요금이 낮은 경우를 반환
         answer=min(answer,res[s][i]+res[i][a]+res[i][b])
     
     return answer
+        
