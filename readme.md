@@ -145,6 +145,11 @@
   - [자물쇠와 열쇠 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/60059)
   - [합승 택시 요금 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
   - [회장뽑기 (Baekjoon)](https://www.acmicpc.net/problem/2660)
+    
+  > # 23.05.10 (29주차 - 박세건)
+  - [전력망을 둘로 나누기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+  - [무인도 여행 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+  - [가장 큰 정사각형 찾기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
   
 > # 파일명
    > programmers/(이름)/N주차/문제이름.(언어종류)
