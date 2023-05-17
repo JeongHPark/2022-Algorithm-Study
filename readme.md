@@ -151,6 +151,11 @@
   - [무인도 여행 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
   - [가장 큰 정사각형 찾기 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
   
+   > # 23.05.17 (30주차 - 김보화)
+  - [양과 늑대 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
+  - [파과되지 않는 건물 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
+  - [표 편집 (programmers)](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
+  
 > # 파일명
    > programmers/(이름)/N주차/문제이름.(언어종류)
    > baekjoon/(이름)/N주차/문제이름.(언어종류)
